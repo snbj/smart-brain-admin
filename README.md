@@ -1,6 +1,6 @@
 # smart-brain-admin
 
- Vue 3  Vite ts tailwindcss
+  `Vue 3 `、  `Vite`、 `TypeScript`、  `tailwindcss`、 `Element-Plus`、`TypeScript`、`Pinia`
 
 ## Recommended IDE Setup
 

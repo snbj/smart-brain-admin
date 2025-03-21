@@ -29,6 +29,7 @@ npm run build
 ```
 
 ### 插件解释  
+```sh
 dependencies
 @iconify-icons/ri        图标库
 @iconify/vue             图标库
@@ -74,3 +75,4 @@ vite-plugin-vue-devtools             这能让开发者更便捷地对 Vue 3 应
 vite-svg-loader                            可以把 SVG 作为组件导入，或者直接内联 SVG 到代码里
 vue-tsc                                         能够在项目中对 Vue 单文件组件（SFC）进行类型检查
 
+```

@@ -28,9 +28,9 @@ npm run dev
 npm run build
 ```
 
-### 插件解释  
-```sh
-dependencies
+### 插件解释   dependencies
+```sh 
+
 @iconify-icons/ri        图标库
 @iconify/vue             图标库
 @pureadmin/utils         工具函数库   例如日期处理、数组操作、对象操作等
@@ -47,6 +47,9 @@ vue-router                  路由
 vuedraggable             拖放组件
 xlsx                              xlsx解析
 codemirror-editor-vue3  文本编辑器
+```
+### 插件解释   devDependencies
+```sh 
 devDependencies
 @eslint/js                                    代码预检 
 @faker-js/faker                            生成虚拟数据
